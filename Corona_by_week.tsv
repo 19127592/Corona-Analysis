@@ -1,217 +1,217 @@
 #	Country	Cases in the last 7 days	Cases in the preceding 7 days	Weekly case /%/ change	Cases in the last 7 days/1M pop	Deaths in the last 7 days	Deaths in the preceding 7 days	Weekly Death /%/ change	Deaths in the last 7 days/1M pop	Population	Continent
-1	S. Korea	1,719,432	1,163,504	+48%	33,489	1,174	659	+78%	23	51,343,425	Asia
-2	Germany	1,163,166	1,080,549	+8%	13,809	1,539	1,354	+14%	18	84,234,696	Europe
-3	Vietnam	1,024,607	681,117	+50%	10,369	634	679	-7%	6	98,811,950	Asia
-4	Russia	547,245	797,254	-31%	3,747	5,016	5,414	-7%	34	146,039,751	Europe
-5	Netherlands	465,507	252,827	+84%	27,066	52	64	-19%	3	17,198,663	Europe
-6	Japan	415,789	460,706	-10%	3,305	1,421	1,588	-11%	11	125,824,999	Asia
-7	France	393,756	372,067	+6%	6,010	1,011	1,273	-21%	15	65,516,532	Europe
-8	Brazil	351,882	356,658	-1%	1,636	3,536	3,562	-1%	16	215,101,451	South America
-9	UK	345,014	215,113	+60%	5,038	778	407	+91%	11	68,485,991	Europe
-10	Italy	290,336	263,924	+10%	4,814	1,143	1,450	-21%	19	60,312,234	Europe
-11	USA	268,009	395,537	-32%	802	7,551	11,087	-32%	23	334,268,263	North America
-12	Hong Kong	257,503	185,527	+39%	33,885	1,701	783	+117%	224	7,599,306	Asia
-13	Turkey	252,760	443,940	-43%	2,944	1,117	1,579	-29%	13	85,865,689	Asia
-14	Austria	228,624	193,652	+18%	25,143	225	227	-1%	25	9,092,857	Europe
-15	Malaysia	215,109	190,933	+13%	6,506	555	454	+22%	17	33,063,507	Asia
-16	Australia	201,311	160,223	+26%	7,743	226	246	-8%	9	25,997,564	Australia/Oceania
-17	Indonesia	196,493	279,194	-30%	706	2,099	2,011	+4%	8	278,389,064	Asia
-18	Switzerland	155,695	114,860	+36%	17,771	49	87	-44%	6	8,761,103	Europe
-19	Thailand	154,329	163,751	-6%	2,202	417	291	+43%	6	70,094,671	Asia
-20	New Zealand	143,832	103,573	+39%	28,754	9	0	+900%	2	5,002,100	Australia/Oceania
-21	Chile	131,386	176,187	-25%	6,775	872	840	+4%	45	19,392,255	South America
-22	Spain	126,622	140,783	-10%	2,706	955	1,101	-13%	20	46,785,249	Europe
-23	Singapore	117,930	125,058	-6%	19,895	70	77	-9%	12	5,927,748	Asia
-24	Greece	107,074	100,852	+6%	10,358	394	434	-9%	38	10,337,391	Europe
-25	Denmark	99,257	129,886	-24%	17,035	321	265	+21%	55	5,826,521	Europe
-26	Portugal	85,012	63,018	+35%	8,378	156	189	-17%	15	10,146,684	Europe
-27	Poland	80,179	92,095	-13%	2,122	1,138	1,347	-16%	30	37,776,866	Europe
-28	Slovakia	63,552	77,358	-18%	11,631	219	253	-13%	40	5,464,092	Europe
-29	Norway	54,624	92,747	-41%	9,945	76	70	+9%	14	5,492,557	Europe
-30	Mexico	53,864	85,178	-37%	411	1,635	2,039	-20%	12	131,211,484	North America
-31	Czechia	53,301	61,044	-13%	4,962	247	316	-22%	23	10,742,409	Europe
-32	Latvia	46,595	60,298	-23%	25,171	100	139	-28%	54	1,851,113	Europe
-33	Belgium	45,281	43,273	+5%	3,879	114	159	-28%	10	11,674,486	Europe
-34	Finland	44,493	28,832	+54%	8,009	192	30	+540%	35	5,555,202	Europe
-35	Argentina	43,141	44,129	-2%	940	565	615	-8%	12	45,893,460	South America
-36	Iran	40,192	68,000	-41%	468	1,166	1,541	-24%	14	85,801,235	Asia
-37	Israel	39,750	61,898	-36%	4,262	85	162	-48%	9	9,326,000	Asia
-38	Canada	38,338	41,728	-8%	1,001	414	476	-13%	11	38,298,856	North America
-39	India	34,907	63,981	-45%	25	1,071	1,465	-27%	0.8	1,402,828,373	Asia
-40	Ukraine	33,339	65,187	-49%	770	545	1,010	-46%	13	43,291,683	Europe
-41	Romania	32,309	51,211	-37%	1,699	465	686	-32%	24	19,021,767	Europe
-42	Lithuania	32,126	33,621	-4%	12,085	123	144	-15%	46	2,658,386	Europe
-43	Brunei	28,524	27,315	+4%	64,167	26	17	+53%	58	444,526	Asia
-44	Ireland	21,582	22,883	-6%	4,290	57	61	-7%	11	5,030,567	Europe
-45	Estonia	19,131	29,607	-35%	14,405	61	71	-14%	46	1,328,036	Europe
-46	Iceland	17,497	20,855	-16%	50,720	11	4	+175%	32	344,969	Europe
-47	Hungary	16,797	23,956	-30%	1,746	415	572	-27%	43	9,619,078	Europe
-48	Serbia	16,107	20,132	-20%	1,856	197	305	-35%	23	8,678,154	Europe
-49	Cyprus	14,772	13,205	+12%	12,087	27	26	+4%	22	1,222,146	Asia
-50	Jordan	14,100	41,155	-66%	1,359	29	102	-72%	3	10,373,528	Asia
-51	Georgia	13,771	40,160	-66%	3,463	225	250	-10%	57	3,976,283	Asia
-52	Slovenia	12,739	12,235	+4%	6,126	55	81	-32%	26	2,079,419	Europe
-53	Bahrain	12,681	17,941	-29%	7,041	7	11	-36%	4	1,800,932	Asia
-54	Uruguay	12,297	19,054	-35%	3,519	64	86	-26%	18	3,493,985	South America
-55	Guatemala	11,784	17,549	-33%	638	88	157	-44%	5	18,472,824	North America
-56	Bulgaria	11,694	15,623	-25%	1,705	299	398	-25%	44	6,860,438	Europe
-57	Belarus	10,755	27,113	-60%	1,139	102	99	+3%	11	9,444,093	Europe
-58	South Africa	10,737	12,537	-14%	177	198	480	-59%	3	60,566,459	Africa
-59	Martinique	10,270	3,050	+237%	27,403	5	19	-74%	13	374,775	North America
-60	Myanmar	10,182	16,631	-39%	185	23	26	-12%	0.4	55,023,466	Asia
-61	Ecuador	9,900	8,674	+14%	547	66	41	+61%	4	18,093,623	South America
-62	Costa Rica	9,405	14,010	-33%	1,818	85	88	-3%	16	5,172,373	North America
-63	Peru	9,400	16,712	-44%	279	450	924	-51%	13	33,744,364	South America
-64	Croatia	9,136	11,345	-19%	2,249	154	180	-14%	38	4,062,671	Europe
-65	Sweden	9,124	15,711	-42%	894	74	284	-74%	7	10,205,214	Europe
-66	Lebanon	8,926	15,537	-43%	1,318	61	88	-31%	9	6,774,017	Asia
-67	Réunion	8,019	10,036	-20%	8,850	14	26	-46%	15	906,061	Africa
-68	Egypt	7,277	11,040	-34%	69	125	243	-49%	1	105,579,806	Africa
-69	Colombia	7,132	12,716	-44%	138	290	535	-46%	6	51,795,208	South America
-70	Tunisia	6,477	8,031	-19%	539	132	217	-39%	11	12,026,650	Africa
-71	Iraq	5,456	8,418	-35%	131	69	96	-28%	2	41,739,823	Asia
-72	Philippines	5,367	8,319	-35%	48	678	527	+29%	6	112,034,234	Asia
-73	Pakistan	5,164	7,113	-27%	23	69	122	-43%	0.3	228,104,063	Asia
-74	Sri Lanka	5,072	7,121	-29%	235	94	181	-48%	4	21,564,310	Asia
-75	Luxembourg	4,968	4,486	+11%	7,725	7	5	+40%	11	643,105	Europe
+1	S. Korea	1,848,162	1,192,300	+55%	35,996	1,252	705	+78%	24	51,343,545	Asia
+2	Germany	1,261,098	1,064,456	+18%	14,971	1,404	1,370	+2%	17	84,235,426	Europe
+3	Vietnam	1,068,883	738,584	+45%	10,817	610	663	-8%	6	98,814,340	Asia
+4	Russia	505,450	757,282	-33%	3,461	4,900	5,433	-10%	34	146,039,921	Europe
+5	Netherlands	481,742	269,933	+78%	28,010	86	58	+48%	5	17,198,766	Europe
+6	France	408,349	365,560	+12%	6,233	938	1,172	-20%	14	65,516,925	Europe
+7	Japan	406,966	454,466	-10%	3,234	1,394	1,563	-11%	11	125,823,946	Asia
+8	UK	346,034	249,853	+38%	5,053	726	527	+38%	11	68,486,963	Europe
+9	Brazil	343,689	325,219	+6%	1,598	3,501	3,160	+11%	16	215,105,573	South America
+10	Italy	303,734	258,392	+18%	5,036	1,094	1,386	-21%	18	60,311,992	Europe
+11	Hong Kong	266,862	232,944	+15%	35,116	1,784	941	+90%	235	7,599,472	Asia
+12	USA	257,535	366,323	-30%	770	7,745	10,099	-23%	23	334,273,557	North America
+13	Austria	246,490	196,627	+25%	27,108	212	224	-5%	23	9,092,997	Europe
+14	Turkey	232,828	413,656	-44%	2,711	1,069	1,486	-28%	12	85,868,167	Asia
+15	Malaysia	213,429	191,330	+12%	6,455	539	494	+9%	16	33,064,640	Asia
+16	Australia	203,529	170,348	+19%	7,829	203	249	-18%	8	25,998,373	Australia/Oceania
+17	Indonesia	180,545	259,027	-30%	649	2,145	1,926	+11%	8	278,396,962	Asia
+18	Switzerland	162,861	122,088	+33%	18,589	57	59	-3%	7	8,761,276	Europe
+19	Thailand	153,695	163,812	-6%	2,193	442	302	+46%	6	70,095,148	Asia
+20	New Zealand	141,705	120,625	+17%	28,329	23	0	+2%	5	5,002,100	Australia/Oceania
+21	Spain	126,097	128,031	-2%	2,695	838	1,077	-22%	18	46,785,298	Europe
+22	Chile	125,588	167,564	-25%	6,476	844	888	-5%	44	19,392,703	South America
+23	Singapore	115,933	124,627	-7%	19,557	67	74	-9%	11	5,927,874	Asia
+24	Greece	113,154	100,816	+12%	10,946	388	433	-10%	38	10,337,252	Europe
+25	Denmark	100,165	118,693	-16%	17,191	318	270	+18%	55	5,826,577	Europe
+26	Portugal	85,572	63,616	+35%	8,434	144	200	-28%	14	10,146,603	Europe
+27	Poland	79,530	87,911	-10%	2,105	1,056	1,272	-17%	28	37,776,753	Europe
+28	Slovakia	64,156	73,637	-13%	11,741	206	273	-25%	38	5,464,099	Europe
+29	Czechia	53,369	58,801	-9%	4,968	216	322	-33%	20	10,742,463	Europe
+30	Norway	51,279	87,867	-42%	9,336	63	74	-15%	11	5,492,673	Europe
+31	Israel	50,508	51,704	-2%	5,416	119	134	-11%	13	9,326,000	Asia
+32	Mexico	49,687	78,849	-37%	379	1,575	1,894	-17%	12	131,215,183	North America
+33	Belgium	48,683	42,538	+14%	4,170	137	141	-3%	12	11,674,624	Europe
+34	Finland	48,515	26,930	+80%	8,733	189	20	+845%	34	5,555,226	Europe
+35	Latvia	44,750	58,110	-23%	24,175	98	140	-30%	53	1,851,056	Europe
+36	Argentina	40,059	43,050	-7%	873	478	659	-27%	10	45,894,592	South America
+37	Iran	39,844	61,815	-36%	464	1,133	1,487	-24%	13	85,804,173	Asia
+38	Canada	39,775	40,689	-2%	1,039	389	466	-17%	10	38,299,759	North America
+39	Ukraine	32,915	45,934	-28%	760	527	867	-39%	12	43,290,969	Europe
+40	India	32,705	57,211	-43%	23	1,125	1,362	-17%	0.8	1,402,865,413	Asia
+41	Lithuania	31,890	32,439	-2%	11,996	115	142	-19%	43	2,658,283	Europe
+42	Romania	29,921	46,415	-36%	1,573	426	687	-38%	22	19,021,418	Europe
+43	Brunei	27,488	28,479	-3%	61,835	21	22	-5%	47	444,537	Asia
+44	Ireland	21,596	23,197	-7%	4,293	63	56	+13%	13	5,030,718	Europe
+45	Estonia	18,037	28,771	-37%	13,582	60	79	-24%	45	1,328,038	Europe
+46	Iceland	16,997	18,607	-9%	49,270	9	7	+29%	26	344,975	Europe
+47	Cyprus	16,199	15,251	+6%	13,254	28	20	+40%	23	1,222,170	Asia
+48	Serbia	15,626	19,034	-18%	1,801	187	287	-35%	22	8,678,059	Europe
+49	Hungary	15,312	22,306	-31%	1,592	392	547	-28%	41	9,619,011	Europe
+50	Guatemala	13,534	16,734	-19%	733	98	123	-20%	5	18,473,730	North America
+51	Slovenia	13,196	11,705	+13%	6,346	52	79	-34%	25	2,079,420	Europe
+52	Georgia	12,626	34,820	-64%	3,175	211	252	-16%	53	3,976,262	Asia
+53	Bulgaria	12,283	13,873	-11%	1,790	312	359	-13%	45	6,860,296	Europe
+54	Bahrain	12,135	17,238	-30%	6,738	6	9	-33%	3	1,801,095	Asia
+55	Jordan	11,750	36,090	-67%	1,133	25	90	-72%	2	10,373,805	Asia
+56	Uruguay	11,613	17,100	-32%	3,324	61	82	-26%	17	3,494,018	South America
+57	South Africa	10,752	11,979	-10%	178	182	481	-62%	3	60,568,502	Africa
+58	Martinique	10,270	3,050	+237%	27,403	5	19	-74%	13	374,775	North America
+59	Belarus	10,169	23,200	-56%	1,077	97	100	-3%	10	9,444,085	Europe
+60	Myanmar	9,305	15,512	-40%	169	22	26	-15%	0.4	55,024,461	Asia
+61	Croatia	9,239	10,411	-11%	2,274	149	181	-18%	37	4,062,602	Europe
+62	Sweden	9,219	14,250	-35%	903	77	251	-69%	8	10,205,385	Europe
+63	Costa Rica	9,001	12,986	-31%	1,740	76	89	-15%	15	5,172,500	North America
+64	Peru	8,591	16,409	-48%	255	457	791	-42%	14	33,745,619	South America
+65	Lebanon	8,047	14,220	-43%	1,188	60	81	-26%	9	6,773,934	Asia
+66	Réunion	8,019	10,036	-20%	8,850	14	26	-46%	15	906,079	Africa
+67	Ecuador	7,544	8,456	-11%	417	52	41	+27%	3	18,094,355	South America
+68	Egypt	6,877	10,469	-34%	65	120	222	-46%	1	105,585,087	Africa
+69	Colombia	6,800	11,518	-41%	131	281	518	-46%	5	51,796,689	South America
+70	Tunisia	5,767	7,290	-21%	480	135	206	-34%	11	12,026,988	Africa
+71	Luxembourg	5,299	4,512	+17%	8,239	9	7	+29%	14	643,132	Europe
+72	Iraq	5,146	7,928	-35%	123	62	97	-36%	1	41,742,295	Asia
+73	Pakistan	5,035	6,426	-22%	22	54	123	-56%	0.2	228,115,801	Asia
+74	Sri Lanka	4,941	6,624	-25%	229	87	171	-49%	4	21,564,555	Asia
+75	Philippines	4,389	7,673	-43%	39	644	373	+73%	6	112,038,220	Asia
 76	Guadeloupe	4,063	0	+406,300%	10,151	6	0	+600%	15	400,239	North America
-77	Cuba	3,739	3,803	-2%	330	6	2	+200%	0.5	11,314,984	North America
-78	New Caledonia	3,661	4,092	-11%	12,619	3	2	+50%	10	290,115	Australia/Oceania
-79	Kuwait	3,593	4,571	-21%	821	9	7	+29%	2	4,376,792	Asia
-80	Zimbabwe	3,546	2,914	+22%	233	11	8	+38%	0.7	15,226,816	Africa
-81	Bangladesh	3,363	6,973	-52%	20	44	58	-24%	0.3	167,449,514	Asia
-82	Moldova	3,266	5,010	-35%	813	62	85	-27%	15	4,018,188	Europe
-83	Libya	3,160	6,032	-48%	450	45	54	-17%	6	7,028,448	Africa
-84	Channel Islands	3,148	2,670	+18%	17,830	2	2	0%	11	176,559	Europe
-85	UAE	3,015	4,346	-31%	299	1	3	-67%	0.1	10,091,406	Asia
-86	Trinidad and Tobago	2,687	3,481	-23%	1,910	32	41	-22%	23	1,407,113	North America
-87	Maldives	2,552	3,618	-29%	4,585	0	4	-100%	0	556,553	Asia
-88	Panama	2,528	3,178	-20%	571	27	51	-47%	6	4,428,996	North America
-89	Azerbaijan	2,516	7,584	-67%	244	104	147	-29%	10	10,292,920	Asia
-90	Paraguay	2,447	4,420	-45%	336	88	141	-38%	12	7,279,909	South America
-91	Bhutan	2,411	3,021	-20%	3,068	1	0	+100%	1	785,900	Asia
-92	Oman	2,380	4,467	-47%	447	3	8	-63%	0.6	5,324,916	Asia
-93	Bolivia	2,342	2,400	-2%	196	29	41	-29%	2	11,940,836	South America
-94	Cambodia	2,259	2,871	-21%	132	11	9	+22%	0.6	17,108,133	Asia
-95	North Macedonia	2,203	3,113	-29%	1,057	68	78	-13%	33	2,083,230	Europe
-96	China	2,107	1,556	+35%	1	0	0	0%	0	1,448,675,310	Asia
-97	Saudi Arabia	2,055	4,202	-51%	58	11	12	-8%	0.3	35,725,687	Asia
-98	Palestine	2,036	4,181	-51%	384	44	74	-41%	8	5,300,762	Asia
-99	Honduras	1,981	4,277	-54%	195	34	107	-68%	3	10,169,530	North America
-100	French Polynesia	1,935	3,302	-41%	6,822	2	4	-50%	7	283,640	Australia/Oceania
-101	Venezuela	1,754	3,202	-45%	62	12	17	-29%	0.4	28,300,375	South America
-102	Mongolia	1,532	2,450	-37%	455	5	10	-50%	1	3,367,073	Asia
-103	Laos	1,519	1,546	-2%	204	12	7	+71%	2	7,453,124	Asia
-104	Afghanistan	1,452	1,149	+26%	36	19	42	-55%	0.5	40,402,155	Asia
-105	Zambia	1,438	1,315	+9%	75	5	8	-38%	0.3	19,249,179	Africa
-106	Mauritius	1,356	1,647	-18%	1,063	0	0	0%	0	1,275,319	Africa
-107	Liechtenstein	1,330	731	+82%	34,715	1	2	-50%	26	38,312	Europe
-108	Bosnia and Herzegovina	1,264	1,683	-25%	389	115	104	+11%	35	3,246,483	Europe
-109	Solomon Islands	1,233	910	+35%	1,724	12	19	-37%	17	715,197	Australia/Oceania
-110	Kazakhstan	1,202	2,646	-55%	63	23	63	-63%	1	19,154,496	Asia
-111	Qatar	1,111	2,186	-49%	396	2	6	-67%	0.7	2,807,805	Asia
-112	Armenia	1,094	3,042	-64%	368	67	115	-42%	23	2,972,562	Asia
-113	Dominican Republic	1,063	2,121	-50%	96	2	7	-71%	0.2	11,030,908	North America
-114	Barbados	1,008	1,199	-16%	3,500	7	5	+40%	24	287,967	North America
-115	Tonga	865	66	+1,211%	8,031	0	0	0%	0	107,710	Australia/Oceania
-116	Isle of Man	863	561	+54%	10,059	1	0	+100%	12	85,790	Europe
-117	Malta	813	547	+49%	1,833	6	5	+20%	14	443,522	Europe
-118	Ghana	776	767	+1%	24	2	0	+200%	0.1	32,163,418	Africa
-119	Montenegro	715	1,082	-34%	1,138	8	12	-33%	13	628,200	Europe
-120	Albania	587	1,091	-46%	204	9	21	-57%	3	2,872,510	Europe
-121	Morocco	558	1,349	-59%	15	27	64	-58%	0.7	37,646,466	Africa
-122	Andorra	545	348	+57%	7,035	1	0	+100%	13	77,473	Europe
-123	Nepal	510	838	-39%	17	8	11	-27%	0.3	30,018,025	Asia
-124	Syria	449	704	-36%	25	23	23	0%	1	18,215,257	Asia
-125	Uzbekistan	449	856	-48%	13	0	13	-100%	0	34,285,010	Asia
-126	Taiwan	417	426	-2%	17	0	1	-100%	0	23,889,306	Asia
-127	Dominica	354	117	+203%	4,897	5	0	+500%	69	72,287	North America
-128	Suriname	329	414	-21%	553	2	3	-33%	3	595,474	South America
-129	Ethiopia	309	291	+6%	3	15	21	-29%	0.1	119,750,048	Africa
-130	Algeria	267	591	-55%	6	17	27	-37%	0.4	45,182,541	Africa
-131	Gibraltar	238	356	-33%	7,068	0	0	0%	0	33,674	Europe
-132	French Guiana	235	144	+63%	754	3	0	+300%	10	311,694	South America
-133	DRC	232	163	+42%	2	0	0	0%	0	94,136,520	Africa
-134	Seychelles	202	222	-9%	2,033	0	3	-100%	0	99,371	Africa
-135	Papua New Guinea	198	714	-72%	21	1	2	-50%	0.1	9,231,996	Australia/Oceania
-136	Bermuda	182	138	+32%	2,941	0	0	0%	0	61,891	North America
-137	Monaco	181	168	+8%	4,558	0	0	0%	0	39,710	Europe
-138	Nigeria	179	204	-12%	0.8	0	0	0%	0	214,727,309	Africa
-139	Jamaica	167	338	-51%	56	21	16	+31%	7	2,982,913	North America
-140	Belize	160	366	-56%	390	2	2	0%	5	409,766	North America
+77	Cuba	3,704	3,804	-3%	327	4	4	0%	0.4	11,314,965	North America
+78	Kuwait	3,456	4,191	-18%	790	8	7	+14%	2	4,376,965	Asia
+79	Zimbabwe	3,442	3,139	+10%	226	11	7	+57%	0.7	15,227,408	Africa
+80	Channel Islands	3,176	2,707	+17%	17,988	2	1	+100%	11	176,563	Europe
+81	Bangladesh	3,033	6,114	-50%	18	42	53	-21%	0.3	167,453,994	Asia
+82	Moldova	2,991	4,675	-36%	744	65	83	-22%	16	4,018,162	Europe
+83	New Caledonia	2,975	3,867	-23%	10,254	3	2	+50%	10	290,123	Australia/Oceania
+84	UAE	2,882	4,066	-29%	286	1	2	-50%	0.1	10,091,732	Asia
+85	Trinidad and Tobago	2,864	3,112	-8%	2,035	31	39	-21%	22	1,407,125	North America
+86	Libya	2,687	5,562	-52%	382	42	52	-19%	6	7,028,704	Africa
+87	Bolivia	2,540	1,924	+32%	213	27	37	-27%	2	11,941,271	South America
+88	Bhutan	2,431	2,836	-14%	3,093	1	0	+100%	1	785,923	Asia
+89	China	2,421	1,584	+53%	2	0	0	0%	0	1,448,690,459	Asia
+90	Paraguay	2,401	3,904	-38%	330	77	125	-38%	11	7,280,148	South America
+91	Panama	2,384	2,845	-16%	538	27	43	-37%	6	4,429,182	North America
+92	Maldives	2,342	3,525	-34%	4,208	0	3	-100%	0	556,579	Asia
+93	Azerbaijan	2,216	6,399	-65%	215	102	143	-29%	10	10,293,169	Asia
+94	Cambodia	2,129	2,773	-23%	124	11	7	+57%	0.6	17,108,765	Asia
+95	Oman	2,129	4,256	-50%	400	2	10	-80%	0.4	5,325,272	Asia
+96	North Macedonia	2,053	2,949	-30%	985	67	82	-18%	32	2,083,230	Europe
+97	Palestine	1,862	3,650	-49%	351	38	78	-51%	7	5,301,086	Asia
+98	Saudi Arabia	1,838	3,932	-53%	51	10	13	-23%	0.3	35,727,169	Asia
+99	Venezuela	1,777	2,996	-41%	63	12	18	-33%	0.4	28,300,156	South America
+100	French Polynesia	1,733	2,842	-39%	6,110	1	4	-75%	4	283,644	Australia/Oceania
+101	Afghanistan	1,679	1,167	+44%	42	20	40	-50%	0.5	40,404,557	Asia
+102	Laos	1,608	1,553	+4%	216	11	9	+22%	1	7,453,412	Asia
+103	Zambia	1,456	1,276	+14%	76	3	10	-70%	0.2	19,250,591	Africa
+104	Mauritius	1,342	1,553	-14%	1,052	0	0	0%	0	1,275,325	Africa
+105	Mongolia	1,329	2,276	-42%	395	5	9	-44%	1	3,367,217	Asia
+106	Liechtenstein	1,271	755	+68%	33,175	1	1	0%	26	38,312	Europe
+107	Solomon Islands	1,233	604	+104%	1,724	7	19	-63%	10	715,243	Australia/Oceania
+108	Bosnia and Herzegovina	1,116	1,551	-28%	344	105	113	-7%	32	3,246,428	Europe
+109	Qatar	1,057	2,024	-48%	376	2	6	-67%	0.7	2,807,805	Asia
+110	Kazakhstan	1,038	2,333	-56%	54	19	60	-68%	1.0	19,155,109	Asia
+111	Honduras	1,015	2,487	-59%	100	27	65	-58%	3	10,169,961	North America
+112	Barbados	974	1,169	-17%	3,382	7	4	+75%	24	287,968	North America
+113	Armenia	957	2,537	-62%	322	58	113	-49%	20	2,972,577	Asia
+114	Isle of Man	938	624	+50%	10,934	1	1	0%	12	85,791	Europe
+115	Malta	840	578	+45%	1,894	6	6	0%	14	443,525	Europe
+116	Dominican Republic	783	1,979	-60%	71	2	7	-71%	0.2	11,031,205	North America
+117	Montenegro	682	1,001	-32%	1,086	10	10	0%	16	628,200	Europe
+118	Ghana	653	904	-28%	20	3	0	+300%	0.1	32,165,194	Africa
+119	Tonga	575	356	+62%	5,338	0	0	0%	0	107,713	Australia/Oceania
+120	Albania	559	973	-43%	195	8	19	-58%	3	2,872,501	Europe
+121	Morocco	533	1,089	-51%	14	27	54	-50%	0.7	37,647,661	Africa
+122	Nepal	517	757	-32%	17	5	13	-62%	0.2	30,019,459	Asia
+123	Andorra	452	384	+18%	5,834	1	0	+100%	13	77,473	Europe
+124	Taiwan	428	417	+3%	18	0	1	-100%	0	23,889,423	Asia
+125	Syria	421	662	-36%	23	22	23	-4%	1	18,216,422	Asia
+126	Uzbekistan	372	807	-54%	11	0	11	-100%	0	34,286,336	Asia
+127	Dominica	354	132	+168%	4,897	1	4	-75%	14	72,287	North America
+128	Suriname	301	418	-28%	505	2	3	-33%	3	595,489	South America
+129	Ethiopia	284	286	-0.7%	2	11	23	-52%	0.1	119,757,852	Africa
+130	French Guiana	260	140	+86%	834	2	1	+100%	6	311,715	South America
+131	Nigeria	255	178	+43%	1	0	0	0%	0	214,741,311	Africa
+132	Algeria	236	527	-55%	5	13	28	-54%	0.3	45,184,707	Africa
+133	Gibraltar	219	317	-31%	6,504	0	0	0%	0	33,674	Europe
+134	Bermuda	216	144	+50%	3,490	1	0	+100%	16	61,890	North America
+135	Seychelles	202	222	-9%	2,033	0	3	-100%	0	99,373	Africa
+136	Monaco	186	169	+10%	4,684	0	0	0%	0	39,711	Europe
+137	Saint Pierre Miquelon	169	17	+894%	29,412	0	0	0%	0	5,746	North America
+138	Jamaica	165	309	-47%	55	22	7	+214%	7	2,982,948	North America
+139	Cook Islands	163	76	+114%	9,266	0	0	0%	0	17,591	Australia/Oceania
+140	Belize	161	317	-49%	393	1	3	-67%	2	409,786	North America
 141	San Marino	154	162	-5%	4,523	0	0	0%	0	34,051	Europe
-142	Eswatini	140	161	-13%	119	1	0	+100%	0.8	1,180,371	Africa
-143	Cook Islands	135	65	+108%	7,674	0	0	0%	0	17,591	Australia/Oceania
-144	Saint Pierre Miquelon	133	24	+454%	23,147	0	0	0%	0	5,746	North America
-145	Madagascar	132	226	-42%	5	7	16	-56%	0.2	28,887,501	Africa
-146	Sudan	131	162	-19%	3	8	29	-72%	0.2	45,570,268	Africa
-147	Uganda	130	216	-40%	3	5	8	-38%	0.1	48,168,074	Africa
-148	Kenya	127	221	-43%	2	1	2	-50%	0.0	55,762,472	Africa
-149	Guyana	119	192	-38%	150	2	7	-71%	3	792,938	South America
-150	Curaçao	117	188	-38%	708	3	0	+300%	18	165,222	North America
-151	Kyrgyzstan	115	168	-32%	17	9	12	-25%	1	6,705,210	Asia
-152	Angola	109	48	+127%	3	0	1	-100%	0	34,584,050	Africa
-153	Tanzania	106	0	+10,600%	2	2	0	+200%	0.0	62,593,415	Africa
-154	Lesotho	104	13	+700%	48	1	0	+100%	0.5	2,170,819	Africa
-155	Malawi	99	105	-6%	5	3	7	-57%	0.2	19,960,777	Africa
-156	Nicaragua	98	101	-3%	15	1	1	0%	0.1	6,757,129	North America
-157	CAR	95	38	+150%	19	0	0	0%	0	4,970,976	Africa
-158	Namibia	91	191	-52%	35	5	5	0%	2	2,618,281	Africa
-159	Cameroon	82	133	-38%	3	3	3	0%	0.1	27,656,531	Africa
-160	Saint Lucia	82	135	-39%	443	4	3	+33%	22	185,039	North America
-161	Haiti	80	51	+57%	7	7	0	+700%	0.6	11,636,340	North America
-162	Mozambique	79	97	-19%	2	5	2	+150%	0.2	32,727,007	Africa
-163	Vanuatu	77	3	+2,467%	241	0	0	0%	0	319,210	Australia/Oceania
-164	Greenland	73	114	-36%	1,282	2	2	0%	35	56,936	North America
-165	Palau	65	156	-58%	3,564	0	0	0%	0	18,239	Australia/Oceania
-166	Senegal	63	93	-32%	4	2	0	+200%	0.1	17,485,508	Africa
-167	Fiji	61	312	-80%	67	0	8	-100%	0	907,374	Australia/Oceania
-168	Ivory Coast	53	108	-51%	2	1	3	-67%	0.0	27,476,201	Africa
-169	Kiribati	53	86	-38%	433	2	0	+200%	16	122,531	Australia/Oceania
-170	Burundi	51	109	-53%	4	0	0	0%	0	12,485,860	Africa
-171	Somalia	49	38	+29%	3	0	0	0%	0	16,638,378	Africa
-172	Aruba	48	41	+17%	446	1	0	+100%	9	107,529	North America
-173	South Sudan	45	43	+5%	4	0	0	0%	0	11,414,478	Africa
-174	Timor-Leste	45	204	-78%	33	0	3	-100%	0	1,360,668	Asia
-175	Mayotte	41	31	+32%	144	0	0	0%	0	283,879	Africa
-176	Rwanda	36	97	-63%	3	1	0	+100%	0.1	13,491,883	Africa
-177	Saint Martin	35	50	-30%	880	0	0	0%	0	39,775	North America
-178	Togo	35	44	-20%	4	0	0	0%	0	8,604,883	Africa
-179	Bahamas	30	69	-57%	75	0	1	-100%	0	399,565	North America
-180	Guinea	30	4	+650%	2	0	0	0%	0	13,731,461	Africa
-181	Sint Maarten	30	32	-6%	687	0	0	0%	0	43,695	North America
-182	Gambia	24	15	+60%	9	0	0	0%	0	2,530,763	Africa
-183	St. Barth	22	23	-4%	2,216	0	0	0%	0	9,928	North America
-184	Comoros	21	9	+133%	23	0	0	0%	0	900,744	Africa
-185	Congo	21	95	-78%	4	0	1	-100%	0	5,746,384	Africa
-186	Gabon	21	23	-9%	9	0	0	0%	0	2,314,015	Africa
-187	Anguilla	19	27	-30%	1,248	0	0	0%	0	15,228	North America
-188	Mauritania	18	17	+6%	4	2	2	0%	0.4	4,855,066	Africa
-189	Djibouti	17	4	+325%	17	0	0	0%	0	1,012,164	Africa
-190	Cabo Verde	15	19	-21%	26	0	0	0%	0	566,145	Africa
-191	Caribbean Netherlands	15	51	-71%	563	0	0	0%	0	26,633	North America
-192	Niger	15	13	+15%	0.6	0	1	-100%	0	25,678,496	Africa
-193	Eritrea	13	11	+18%	4	0	0	0%	0	3,628,975	Africa
-194	Antigua and Barbuda	12	20	-40%	121	0	0	0%	0	99,293	North America
-195	Guinea-Bissau	12	55	-78%	6	1	1	0%	0.5	2,046,188	Africa
-196	Mali	11	36	-69%	0.5	3	0	+300%	0.1	21,231,002	Africa
-197	Yemen	10	20	-50%	0.3	3	5	-40%	0.1	30,930,284	Asia
-198	Equatorial Guinea	9	11	-18%	6	0	1	-100%	0	1,480,423	Africa
-199	Benin	8	0	+800%	0.6	0	0	0%	0	12,656,886	Africa
-200	Samoa	8	0	+800%	40	0	0	0%	0	200,632	Australia/Oceania
-201	Saint Kitts and Nevis	7	6	+17%	130	0	0	0%	0	53,832	North America
-202	British Virgin Islands	6	11	-45%	196	0	0	0%	0	30,570	North America
-203	Chad	3	9	-67%	0.2	0	0	0%	0	17,217,920	Africa
-204	Liberia	3	24	-88%	0.6	0	4	-100%	0	5,257,505	Africa
-205	Falkland Islands	2	4	-50%	548	0	0	0%	0	3,650	South America
-206	Macao	1	1	0%	2	0	0	0%	0	664,223	Asia
-207	Niue	1	0	+100%	608	0	0	0%	0	1,645	Australia/Oceania
-208	St. Vincent Grenadines	1	3	-67%	9	0	0	0%	0	111,533	North America
-209	Sierra Leone	1	2	-50%	0.1	0	0	0%	0	8,249,721	Africa
-210	Botswana	0	1,298	-100%	0	0	5	-100%	0	2,431,459	Africa
-211	El Salvador	0	2,372	-100%	0	16	23	-30%	2	6,541,269	North America
-212	Faeroe Islands	0	2,193	-100%	0	0	4	-100%	0	49,175	Europe
-213	Grenada	0	125	-100%	0	0	2	-100%	0	113,400	North America
-214	Montserrat	0	1	-100%	0	0	0	0%	0	4,997	North America
-215	Sao Tome and Principe	0	2	-100%	0	0	0	0%	0	226,002	Africa
-216	Turks and Caicos	0	19	-100%	0	0	0	0%	0	39,598	North America
+142	DRC	152	200	-24%	2	0	0	0%	0	94,143,993	Africa
+143	Madagascar	132	226	-42%	5	7	16	-56%	0.2	28,889,452	Africa
+144	Uganda	130	204	-36%	3	5	8	-38%	0.1	48,172,039	Africa
+145	Eswatini	121	163	-26%	103	1	1	0%	0.8	1,180,404	Africa
+146	Kenya	115	203	-43%	2	4	2	+100%	0.1	55,765,716	Africa
+147	Kyrgyzstan	115	174	-34%	17	10	10	0%	1	6,705,504	Asia
+148	Papua New Guinea	112	673	-83%	12	1	0	+100%	0.1	9,232,460	Australia/Oceania
+149	Angola	109	45	+142%	3	0	1	-100%	0	34,586,857	Africa
+150	Tanzania	106	0	+10,600%	2	2	0	+200%	0.0	62,598,082	Africa
+151	Guyana	105	204	-49%	132	1	7	-86%	1	792,948	South America
+152	Nicaragua	98	101	-3%	15	1	1	0%	0.1	6,757,344	North America
+153	CAR	95	38	+150%	19	0	0	0%	0	4,971,206	Africa
+154	Malawi	93	107	-13%	5	3	5	-40%	0.2	19,962,132	Africa
+155	Saint Lucia	89	106	-16%	481	4	2	+100%	22	185,041	North America
+156	Namibia	82	178	-54%	31	4	4	0%	2	2,618,407	Africa
+157	Haiti	80	17	+371%	7	7	0	+700%	0.6	11,636,720	North America
+158	Burundi	75	107	-30%	6	0	0	0%	0	12,486,832	Africa
+159	Sudan	74	193	-62%	2	5	24	-79%	0.1	45,573,072	Africa
+160	Greenland	71	89	-20%	1,247	2	2	0%	35	56,936	North America
+161	Vanuatu	66	11	+500%	207	0	0	0%	0	319,230	Australia/Oceania
+162	Mozambique	62	101	-39%	2	4	2	+100%	0.1	32,729,409	Africa
+163	Palau	54	138	-61%	2,961	0	0	0%	0	18,239	Australia/Oceania
+164	Fiji	53	296	-82%	58	0	8	-100%	0	907,391	Australia/Oceania
+165	Senegal	53	92	-42%	3	2	0	+200%	0.1	17,486,717	Africa
+166	Curaçao	51	215	-76%	309	2	1	+100%	12	165,224	North America
+167	South Sudan	51	43	+19%	4	1	0	+100%	0.1	11,414,836	Africa
+168	Somalia	49	38	+29%	3	0	0	0%	0	16,639,594	Africa
+169	Aruba	48	29	+66%	446	1	0	+100%	9	107,530	North America
+170	Ivory Coast	48	93	-48%	2	1	2	-50%	0.0	27,477,991	Africa
+171	Timor-Leste	48	152	-68%	35	0	3	-100%	0	1,360,737	Asia
+172	Kiribati	46	81	-43%	375	2	0	+200%	16	122,536	Australia/Oceania
+173	Mayotte	41	31	+32%	144	0	0	0%	0	283,897	Africa
+174	Bahamas	36	47	-23%	90	0	0	0%	0	399,575	North America
+175	Rwanda	33	75	-56%	2	0	1	-100%	0	13,492,763	Africa
+176	Togo	31	35	-11%	4	0	0	0%	0	8,605,415	Africa
+177	Guinea	30	4	+650%	2	0	0	0%	0	13,732,438	Africa
+178	Sint Maarten	29	26	+12%	664	0	0	0%	0	43,696	North America
+179	Comoros	24	7	+243%	27	0	0	0%	0	900,794	Africa
+180	Gambia	24	15	+60%	9	0	0	0%	0	2,530,949	Africa
+181	Guinea-Bissau	23	55	-58%	11	1	1	0%	0.5	2,046,316	Africa
+182	Congo	21	53	-60%	4	0	0	0%	0	5,746,756	Africa
+183	Gabon	21	23	-9%	9	0	0	0%	0	2,314,159	Africa
+184	Anguilla	19	27	-30%	1,248	0	0	0%	0	15,229	North America
+185	Cabo Verde	17	13	+31%	30	0	0	0%	0	566,162	Africa
+186	Mauritania	17	19	-11%	4	1	3	-67%	0.2	4,855,401	Africa
+187	Djibouti	15	4	+275%	15	0	0	0%	0	1,012,204	Africa
+188	Mali	15	34	-56%	0.7	2	2	0%	0.1	21,232,602	Africa
+189	Niger	14	14	0%	0.5	0	1	-100%	0	25,680,904	Africa
+190	Antigua and Barbuda	12	14	-14%	121	0	0	0%	0	99,295	North America
+191	Eritrea	12	11	+9%	3	0	0	0%	0	3,629,109	Africa
+192	Samoa	12	0	+1,200%	60	0	0	0%	0	200,636	Australia/Oceania
+193	Yemen	11	18	-39%	0.4	4	4	0%	0.1	30,932,083	Asia
+194	Caribbean Netherlands	9	44	-80%	338	0	0	0%	0	26,634	North America
+195	Equatorial Guinea	9	8	+13%	6	0	1	-100%	0	1,480,550	Africa
+196	Lesotho	9	108	-92%	4	0	1	-100%	0	2,170,865	Africa
+197	Liberia	8	24	-67%	2	0	4	-100%	0	5,257,831	Africa
+198	Saint Kitts and Nevis	7	6	+17%	130	0	0	0%	0	53,833	North America
+199	Turks and Caicos	7	12	-42%	177	0	0	0%	0	39,599	North America
+200	Chad	3	9	-67%	0.2	0	0	0%	0	17,219,213	Africa
+201	Falkland Islands	3	4	-25%	822	0	0	0%	0	3,651	South America
+202	Montserrat	2	1	+100%	400	0	0	0%	0	4,997	North America
+203	Sierra Leone	2	0	+200%	0.2	0	0	0%	0	8,250,165	Africa
+204	Niue	1	0	+100%	608	0	0	0%	0	1,645	Australia/Oceania
+205	Macao	0	2	-100%	0	0	0	0%	0	664,247	Asia
+206	Benin	0	8	-100%	0	0	0	0%	0	12,657,756	Africa
+207	Botswana	0	1,298	-100%	0	0	5	-100%	0	2,431,589	Africa
+208	British Virgin Islands	0	17	-100%	0	0	0	0%	0	30,570	North America
+209	Cameroon	0	82	-100%	0	0	3	-100%	0	27,658,342	Africa
+210	El Salvador	0	1,789	-100%	0	13	23	-43%	2	6,541,358	North America
+211	Faeroe Islands	0	2,193	-100%	0	0	4	-100%	0	49,176	Europe
+212	Grenada	0	92	-100%	0	0	2	-100%	0	113,402	North America
+213	St. Barth	0	22	-100%	0	0	0	0%	0	9,928	North America
+214	Saint Martin	0	35	-100%	0	0	0	0%	0	39,777	North America
+215	St. Vincent Grenadines	0	4	-100%	0	0	0	0%	0	111,534	North America
+216	Sao Tome and Principe	0	2	-100%	0	0	0	0%	0	226,013	Africa
